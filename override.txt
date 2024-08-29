@@ -1,6 +1,8 @@
 nc_lode:block_annealed * dwemer_metal_plate_annealed.png
 nc_lode:block_tempered * dwemer_puzzlebox_color.png
 
+nc_lode:tongs_tempered inventory,wield dwemer_tongs_tempered.png
+
 nc_igneous:amalgam * dwemer_amalgam.png
 nc_igneous:amalgam_loose * dwemer_amalgam_loose.png
 
