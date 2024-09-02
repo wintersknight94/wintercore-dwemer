@@ -20,7 +20,7 @@ nc_exmachina:frame bottom nc_exmachina_frame_top.png
 yctie:lockbox_locked * barrier_locked.png
 
 wc_adamant:adze_admin inventory,wield wc_adamant_adminze.png
-wc_adamant:ore inventory,wield wc_adamant_rock.png
+wc_adamant:ore inventory,wield wc_adamant_shard.png
 wc_adamant:shard inventory,wield wc_adamant_shard.png
 wc_adamant:adze_infused inventory,wield dwemer_aetherial_adamant_adze.png
 wc_adamant:tool_pick_infused inventory,wield dwemer_aetherial_adamant_pick.png
@@ -28,6 +28,9 @@ wc_adamant:tool_spade_infused inventory,wield dwemer_aetherial_adamant_spade.png
 wc_adamant:tool_hatchet_infused inventory,wield dwemer_aetherial_adamant_hatchet.png
 wc_adamant:tool_mallet_infused inventory,wield dwemer_aetherial_adamant_mallet.png
 wc_adamant:mace_infused inventory,wield dwemer_aetherial_adamant_mace.png
+
+
+
 
 wc_bugs:chrysalis sides dwemer_chrysalis_1.png
 wc_bugs:chrysalis top dwemer_chrysalis_2.png
