@@ -29,7 +29,10 @@ wc_adamant:tool_hatchet_infused inventory,wield dwemer_aetherial_adamant_hatchet
 wc_adamant:tool_mallet_infused inventory,wield dwemer_aetherial_adamant_mallet.png
 wc_adamant:mace_infused inventory,wield dwemer_aetherial_adamant_mace.png
 
-
+wc_crystals:adamant_crystal *,inventory dwemer_caged_crystal_adamantite_4.png
+wc_crystals:shroomite_crystal *,inventory dwemer_caged_crystal_shroomite.png
+wc_crystals:lodite_crystal *,inventory dwemer_caged_crystal_lodite.png
+wc_crystals:luxite_crystal *,inventory dwemer_caged_crystal_luxite.png
 
 
 wc_bugs:chrysalis sides dwemer_chrysalis_1.png
