@@ -6,7 +6,9 @@ nc_lode:tongs_tempered inventory,wield dwemer_tongs_tempered.png
 nc_igneous:amalgam * dwemer_amalgam.png
 nc_igneous:amalgam_loose * dwemer_amalgam_loose.png
 
-nc_sponge:sponge_living * dwemer_sponge_living.png
+nc_sponge:sponge * dwemer_sponge_dry.png
+nc_sponge:sponge_wet * dwemer_sponge_wet.png
+nc_sponge:sponge_living * dwemer_sponge_living_colorful.png
 
 nc_stonework:chip inventory,wield dwemer_stone_chip.png
 
