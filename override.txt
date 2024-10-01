@@ -1,6 +1,8 @@
+nc_fire:lump_ash inventory,wield dwemer_lump_ash.png
+nc_fire:lump_coal inventory,wield dwemer_lump_coal.png
+
 nc_lode:block_annealed * dwemer_metal_plate_annealed.png
 nc_lode:block_tempered * dwemer_puzzlebox_color.png
-
 nc_lode:tongs_tempered inventory,wield dwemer_tongs_tempered.png
 
 nc_igneous:amalgam * dwemer_amalgam.png
@@ -50,6 +52,8 @@ wc_fossil:amber_bug inventory,wield dwemer_amber_bug.png
 wc_naturae:shell inventory,wield dwemer_shell_pink.png
 wc_naturae:pumseed inventory,wield wc_naturae_pumseed.png
 wc_naturae:dirt_with_ice * permafrost_alt_1.png
+
+wc_noditions:lump_sap inventory,wield dwemer_lump_sap.png
 
 wc_quicksilver:cobble * wc_quicksilver_cinnacobble.png
 wc_quicksilver:cobble_loose * wc_quicksilver_cinnacobble_loose.png
