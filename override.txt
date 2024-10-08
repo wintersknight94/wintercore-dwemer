@@ -55,6 +55,10 @@ wc_naturae:dirt_with_ice * permafrost_alt_1.png
 
 wc_noditions:lump_sap inventory,wield dwemer_lump_sap.png
 
+wc_pottery:lump_clay inventory,wield dwemer_lump_clay.png
+wc_pottery:clay * dwemer_clay.png
+
+
 wc_quicksilver:cobble * wc_quicksilver_cinnacobble.png
 wc_quicksilver:cobble_loose * wc_quicksilver_cinnacobble_loose.png
 wc_quicksilver:bricks * wc_quicksilver_bricks.png
